@@ -147,7 +147,7 @@ class InspirationController
         return $quote';
     }
 }
-As you can see, this does the same task as the route you've created in a previous section but in a slightly different way. The __invoke() function that this entire controller serves the purpose of a single route.
+As you can see, this does the same task as the route you've created in a previous section but in a slightly different way.`The __invoke() function that this entire controller serves the purpose of a single route.`
 
 Adding Routes to Your Package
 Now that the controller is in place, time to create the GET route. To do so, create a new file src/routes/web.php and put the following code in it:

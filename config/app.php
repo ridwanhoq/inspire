@@ -165,7 +165,7 @@ return [
         /*
          * Package Service Providers...
          */
-
+        \Ridwanhoq\Inspire\Providers\InspirationProvider::class,
         /*
          * Application Service Providers...
          */
