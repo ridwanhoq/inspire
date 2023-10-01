@@ -1,0 +1,16 @@
+{
+    "name": "ridwanhoq/inspire",
+    "autoload": {
+        "psr-4": {
+            "Ridwanhoq\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ridwanul",
+            "email": "ridwanul.riseuplabs@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
